@@ -15,20 +15,26 @@ I am passionate about programming, software development, and solving challenging
 I use LeetCode to continuously improve my logical thinking, coding efficiency, and problem-solving abilities.
 
 - 🎓 BE in Artificial Intelligence & Machine Learning – SPPU.
-- 💻 Programming Languages: Java, C++, Python, C, JavaScript and SQL.
+- 💻 Programming Languages: C, C++, Java, Python, JavaScript.
 - 🚀 Interested in Software Development, Full-Stack Development and AI/ML.
 - 🧠 Currently strengthening my problem-solving and algorithmic thinking.
 - 🎯 Preparing for technical interviews and coding assessments.
 - 📈 Focused on consistency, clean code and optimized solutions.
 
-## 🛠️ Technologies & Skills
+##	🧰 Technologies & Skills
 
-- **Programming:** Java, C++, Python, C, JavaScript, SQL
-- **Web Development:** HTML, CSS, React.js, MERN Stack
-- **Backend:** Java Spring Boot, Python Flask, Django, FastAPI
-- **AI & ML:** Machine Learning, Deep Learning, Computer Vision
-- **Databases:** MySQL, MongoDB, SQLite
-- **Tools:** Git, GitHub, VS Code, STS, Postman
+- **Programming:** C, C++, Java, Python, JavaScript.
+- **Web Development:** HTML, CSS, React.js, MERN Stack.
+- **Backend:** Java Spring Boot, Python Flask, Django, FastAPI.
+- **AI & ML:** Machine Learning, Deep Learning, Computer Vision.
+- **Databases:** MySQL, MongoDB, SQLite.
+
+## 🛠️ Tools : 
+- **Version Control:** Git, GitHub
+- **IDEs & Code Editors:** Visual Studio, Visual Studio Code (VS Code), Eclipse IDE, IntelliJ IDEA, Spring Tool Suite (STS)
+- **AI/ML & Data Science:** Jupyter Notebook, Google Colab, Anaconda
+- **API Development & Testing:** Postman, Thunder Client
+- **Database Management:** MySQL Workbench, MongoDB Compass, SQLite Browser
 
 ## 🎯 My Goal
 
