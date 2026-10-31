@@ -38,9 +38,9 @@ To become a better problem solver, write efficient code, and continuously improv
 
 ## 🔗 Connect With Me
 
-- **GitHub:** [Anurag Dhondge](https://github.com/YOUR_USERNAME)
-- **LeetCode:** [My LeetCode Profile](https://leetcode.com/YOUR_USERNAME/)
-- **LinkedIn:** [My LinkedIn Profile](YOUR_LINKEDIN_URL)
+- **GitHub:** [Anurag Dhondge](https://github.com/anurag-dhondge)
+- **LeetCode:** [My LeetCode Profile](https://leetcode.com/u/anurag-dhondge/)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/anuragd2004)
 
 ---
 
